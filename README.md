@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @nadirahp
-- 👀 I’m interested in Machine Learning and 3D modeling.
-- 🌱 I’m currently learning 3D modeling, machine learning, and web development.
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Database management, machine learning, data analysis, linux
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I like playing visual novels.
+- ⚡ Fun fact: I love interactive games
 
 <!---
 nadirahp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
