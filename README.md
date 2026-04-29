@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @nadirahp
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Database management, machine learning, data analysis, linux
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I love interactive games
+Hello, this GitHub account was created so that I can get better acquainted with it.
 
 <!---
 nadirahp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
